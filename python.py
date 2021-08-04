@@ -10,4 +10,5 @@ account = Account("lmac", blockchain_instance=hive)
 
 account.transfer("<ACCOUNT1>", "<AMOUNT>", "HIVE", "<MEMO>"),
 # account.transfer("<ACCOUNT2>", "<AMOUNT>", "HIVE", "<MEMO>"),
+# account.transfer("<ACCOUNT3>", "<AMOUNT>", "HIVE", "<MEMO>"),
 # (...)
